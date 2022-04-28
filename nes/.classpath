@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="nes/lib/slick"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/jorgejimenez/Documents/Documents - Jorge’s MacBook Pro/eclipse_workspace2020/nes/lib/table.jar" sourcepath="/2420_EXERCISES"/>
+	<classpathentry kind="lib" path="/Users/jorgejimenez/Documents/Documents - Jorge’s MacBook Pro/eclipse_workspace2020/nes/lib/algs4.jar"/>
+	<classpathentry kind="lib" path="/Users/jorgejimenez/Documents/Documents - Jorge’s MacBook Pro/eclipse-workspace_1410/easy UI/res/ede.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/gameEngine">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="nes/lib/slick"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/slick2d">
+		<attributes>
+			<attribute name="annotationpath" value="/nes/lib/slick/lib/slick.jar"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="nes/lib/slick"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
